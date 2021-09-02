@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZOOFT</string>
+    <string name="qr">Scan QR code</string>
+    <string name="loc">locate</string>
+    <string name="exit">Go out</string>
+
+    <string name="copyright">COPYRIGHT - 2021</string>
+    <string name="diseño">Designed by:</string>
+    <string name="autor">ANGELLO TORRES DE LA TORRE</string>
+
+    <string name="confirmacionSalirAPP">Do you want to exit the application?</string>
+    <string name="confirmacionIncidencia">Do you want to send the incident?</string>
+    <string name="incidenciaGenerada">Incidence Generated</string>
+    <string name="mensajeExcepcion">Exception Message</string>
+    <string name="animalNoEncontrado">Animal not found</string>
+    <string name="aceptar">Accept</string>
+    <string name="cancelar">Cancel</string>
+
+    <string name="quien">WHO IS IT?</string>
+    <string name="costumbres">WHAT ARE ITS HABITS?</string>
+    <string name="sabias">DID YOU KNOW…</string>
+
+    <string name="bisonte">EUROPEAN BISON</string>
+    <string name="bisonteQuien">This bison is the largest mammal in Europe, and it closely resembles its American relative, although it is lighter in constitution (as well as lacking a hump). The fur of adults, brown, is darker than that of calves, and develops mainly on the head, shoulders and neck. They have a small "beard" on the throat, while on the legs they have short hair (unlike the American Bison). The antlers are typical of both sexes, and can reach 50 centimeters. They inhabit the thick, temperate and humid forests of eastern Europe.</string>
+    <string name="bisonteConstumbres">The European Bison lives in small herds, small hidden herds of between 10 and 30 individuals and, despite its heavy appearance, it is very fast. This helps him fiercely defend his calves from the attacks of bears and wolves. They are also good swimmers and enjoy diving in the swamps. Between August and September the mating season takes place, after which gestation occurs, which lasts between 260 and 270 days. Females give birth to a single young, moving away first to give birth. They are herbivorous mammals.</string>
+    <string name="bisonteSabias">La Primera Guerra Mundial por poco acaba con esta especie. Al término de la contienda apenas quedaban 60 ejemplares de bisonte en todo el continente.</string>
+    <string name="bisontePeso">300–920 kg</string>
+    <string name="bisonteTamaño">150–200 cm</string>
+
+    <string name="guacamayo">RED-AND-GREEN MACAW</string>
+    <string name="guacamayoQuien">He red-and-green macaw or “green-winged” macaw has magnificent plumage and forms part of the large family called “parrots”. Its scientific name, “Ara”, refers to the sound made by this bird, which is characteristic of tropical rainforests which run from Mexico to Brazil. The red-and-green macaw lives near places where there is water, and is threatened due to the destruction of its habitat (illegal trade threatens its survival).</string>
+    <string name="guacamayoCostumbres">The red-and-green macaw lives in small flocks or in pairs, and it builds its nest with its mate in the breeding season. The place it chooses are small hollows in trees, which are difficult for predators to access. The females broods, though both sexes care for the chicks. The chicks fly the nest when they learn to fly. Its diet is based on various fruits, seeds, nuts and berries.</string>
+    <string name="guacamayoSabias">They are docile and gregarious birds, hence they easily adapt to domestic life (although, as with other birds of this species, they are usually affectionate with only one person).</string>
+    <string name="guacamayoPeso">1000–1350 gr</string>
+    <string name="guacamayoTamaño">82–120 cm</string>
+
+    <string name="ibis">SACRED IBIS</string>
+    <string name="ibisQuien">The sacred ibis has black and white plumage on the head and tail. Its name comes from the god Thot, who became incarnate in it (hence it was domesticated to remain in temples and parks, where the Ancient Egyptians worshipped it). When it died it was mummified and was buried. Nowadays, however, it is a bird which is extinct in Egypt. It is found mainly in the currents and lake areas in the south of Africa.</string>
+    <string name="ibisCostumbres">The ibis is a carnivorous animal, which can even feed on carrion (its diet is very similar to that of storks or marabou storks). A diurnal and gregarious animal, it is able to form very numerous colonies on occasion. It makes its nest on trees, where the chicks are born (they are white, except for their neck and head, which are black, and featherless). Brooding lasts about 28 or 29 days and is carried out by both members of the pair.</string>
+    <string name="ibisSabias">The chicks of the sacred ibis leave the nest 20 days after hatching to join a sort of nursery. They become independent before their second month.</string>
+    <string name="ibisPeso">1,5 kg</string>
+    <string name="ibisTamaño">65–80 cm</string>
+
+    <string name="lince">IBERIAN LYNX</string>
+    <string name="linceQuien">The Iberian lynx is the largest feline in southern Europe and the most threatened on the planet. It is an endemic species of the Iberian Peninsula and originally distributed throughout. Currently its population consists of 404 specimens. They were classified as ‘critically endangered’ and now they are just as ‘endangered’. Slender, with long legs (82 – 103 cm in length and 36 – 55 cm high), an unmistakable beard and black tips to its ears. The coat is brown with dark spots of varying sizes and density depending on the individual. The short tail is characteristic of all lynxes worldwide.</string>
+    <string name="linceCostumbres">Females give birth once a year and not every year. Births take place between March and April, after about two months of gestation. Cubs are not very mobile and they keep their eyes closed during the first 12 days of life. They can birth from one to four cubs. Rabbit takes more than 90% of their diet, although occasionally they can capture other prey like deer, fallow deers, partridges, small mammals and waterfowl. They are solitary and territorial. They defend exclusively the center of their home range to subadults or adults of the same sex.</string>
+    <string name="linceSabias">Although it looks like a large cat, it is closer to a small lion.</string>
+    <string name="lincePeso">9,4–13 kg</string>
+    <string name="linceTamaño">82–103 cm</string>
+
+    <string name="lobo">ARCTIC WOLF</string>
+    <string name="loboQuien">Tundras and polar regions are the habitat of the Arctic Wolf, a mammal that is related to canines such as our domestic dog, jackals, the Australian dingo and the fox. Though it is said that the Arctic wolf is most similar, to the, Siberian husky. It has long and completely white fur and also has greyish tones on its back. Its range is Greenland and the Arctic islands of Canada.</string>
+    <string name="loboCostumbres">The Arctic Wolf covers vast territories to find the food you need, hence delimited with howls and scent marks your area. The social structure of the pack is strongly hierarchical and led by a pair. They are the alpha male and alpha female, who are usually the only ones who procreate. They take the decisions regarding the pack’s activities: hunting, which individual eats first, who is allowed to procreate, etc.. The mother gives birth to two or three pups at the end of May or the beginning of June, after a gestation of approximately 63 days. The pups do not leave the female until they are two years old.</string>
+    <string name="loboSabias">The populations of Arctic wolves have slowly recovered in recent years, though they are still threatened. Hunting, habitat loss, roadkill, poisoning, lack of prey, etc., are the cause of this decline. Their relatives such as the Iberian wolf face similar problems.</string>
+    <string name="loboPeso">63–78 kg</string>
+    <string name="loboTamaño">1–2 m</string>
+
+    <string name="loris">RAINBOW LORIKEET</string>
+    <string name="lorisQuien">There are at least 22 known subspecies of rainbow lorikeet, differentiated by the colour of their head, nape and chest. The predominant colour in this robust  bird’s chest is green: on its back, rump and pointed tail. Juveniles’ beaks are dark brown in colour (that of the adults is orangey or red). When it flies, it spreads its bright wings and screeches a lot. When feeding, however, the rainbow lorikeet is silent (to such an extent that it may remain unnoticed among the vegetation, due to its green plumage). Within the islands of its range, and given the absence of predators, it has adopted a preferentially terrestrial way of life.</string>
+    <string name="lorisCostumbres">It normally lives is large flocks since it is a gregarious animal capable of forming mixed groups with other species. It feeds above all on nectar, mature fruit, flowers and insects (soft foods, rich in proteins and vitamins). Its own tongue, in the shape of a broom, has adapted to this diet: it uses its beak to crush the pulp of the fruit and extract the juice and seeds. There is no visible sexual dimorphism, and only the female broods on the eggs for about 27 days, although the nest is prepared by both sexes, which share the task of feeding the chicks. The leave the nest eight weeks after hatching.</string>
+    <string name="lorisSabias">Rainbow lorikeet nests are usually found in hollows of rotten wood, as well as in the end branches of the eucalyptus. The clutch varies between three and four eggs, and are laid at intervals of one or two days.</string>
+    <string name="lorisPeso">116–142 gr</string>
+    <string name="lorisTamaño">26 cm</string>
+
+    <string name="nutria">GIANT OTTERS</string>
+    <string name="nutriaQuien">This variety of otter, as its name suggests, is the largest of the otter family. It can reach two meters in length and 32 kilograms in weight. The body of the Giant Amazon Otter is elongated; its legs, short and thick, end in large feet, provided with interdigital membranes that help it to maneuver and gain momentum during slow swimming. When he wants to swim faster, he uses his tail, wide and flat. Its fur is dark brown and very dense, except in the throat area (where it presents several light spots, unique for each individual; which allows its recognition and identification with the naked eye). Their life expectancy can exceed 15 years. These otters inhabit rivers, lakes, streams, and swamps in tropical forests in South America. It is there where they are dedicated to clearing large areas of vegetation to build their burrows.</string>
+    <string name="nutriaCostumbres">It is a very sociable animal that lives in family groups of up to ten individuals, made up of an adult couple and several generations of offspring. Especially noisy, active, curious and playful, she uses a wide repertoire of vocalizations (some of them are used, along with excrement and glandular secretions, to mark territory or give alarm signals in the event of a threat). The females give birth between one and five young, after a gestation that lasts around 70 days; stop at burrows, built near riverbanks and fishing grounds. Males and older brothers participate in raising the litter, whose vulnerability is sometimes exploited by alligators. The diet of these giant otters consists mainly of fish (although they also eat crabs, snakes and even small alligators).</string>
+    <string name="nutriaSabias">The Amazon Giant Otter has no natural enemies. Poaching, habitat loss, overfishing and pollution are the factors that threaten their existence.</string>
+    <string name="nutriaPeso">32 kg</string>
+    <string name="nutriaTamaño">2 m</string>
+
+    <string name="hormiguero">ANT-EATER</string>
+    <string name="hormigueroQuien">A cousin of the armadillo and the sloth, the giant anteater is one of the oldest mammals on the planet. And also one the strangest: its peculiar elongated head, finishing in a tiny mouth, gives it a very recognisable appearance. It has a long toothless snout, small ears and dense fur, it is native to Central and South America (though it is locally extinct in some Central American countries). Its natural habitat is varied: it has lived in moist and dry forests, swampy areas, savannahs and grasslands.</string>
+    <string name="hormigueroCostumbres">It consumes thousands of ants each day. In fact, ants, along with termites, are what determine the territory in which they live. Having said that, they are selective: of the hundreds of existing species, they only choose four or five species of ant. Since they have a strong sense of smell, they are capable of easily locating their favourite prey, which they reach by digging into the ground which their powerful claws. The giant anteater’s reproduction is not seasonal. Gestation occurs over 190 days, after which one pup is born. Shortly after birth, it grips its mother’s fur with its claws to climb on her back, where it remains for a year. After this time, it separates from her to begin to explore its environment alone. Giant anteaters do not seem to have any contact with one another: they normally spend their time covering vast expanse to feed, and only interact with each other to breed.</string>
+    <string name="hormigueroSabias">In captivity the giant anteater easily cohabits and even forgets to search for food, which increases its sociability with other individuals.</string>
+    <string name="hormigueroPeso">20–40 kg</string>
+    <string name="hormigueroTamaño">2 m</string>
+
+    <string name="panda">GIANTS PANDAS</string>
+    <string name="pandaQuien">Giant pandas are fascinating animals. It eats bamboo (as indicated by its name in Nepali), it was no more than a solitary wanderer of the mountains of China until in 1869 it was made known in the West by the naturalist and missionary Armand David. Giant pandas are a symbol for those who are convinced of the need to protect nature and biodiversity. They are peaceful animals and expert tree climbers. The females are lighter than the males, though there are no differences between them. Their fur is rough, long and dense; sometimes, the black has a brownish tinge, and the white darkens or becomes more reddish and brown. It has vertical pupils, like cats. This species has developed a sixth finger (pseudo-thumb) which is simply a prolongation of the wrist bone that allows it to uproot, grasp and carry the bamboo to its mouth.</string>
+    <string name="pandaCostumbres">Temperate forests in China have traditionally provided giant pandas with shelter and food. Each individual usually occupies a territory of between 4 and 6.5 km, while it moves casually and slowly, saving energy. Dawn and dusk are the times when the bear is most active, though not always. Males and females are found in practically identical areas and communicate with one another with a series of sounds. Especially the males, who make call and groaning sounds during the breeding season (which are specific and rather noisy). The cubs are born after a gestation of 135 days and are blind and pink. Its diet consists mainly of bamboo; they also eat insects, eggs, fruit and small mammals.</string>
+    <string name="pandaSabias">The survival of the panda bear is still in doubt: there are only between 1,000 and 2,000 animals in their natural habitat, in the provinces of Gansu, Shaanxi and Sichuan (China).</string>
+    <string name="pandaPeso">120–150 kg</string>
+    <string name="pandaTamaño">170–180 cm</string>
+
+    <string name="pinguino">JACKASS PENGUIN</string>
+    <string name="pinguinoQuien">Known as the African penguin, the Jackass penguin inhabits the rocky coasts of the extreme south of Africa (Namibia, South Africa and surrounding islands). It has an appearance that camouflages it from its predators (especially the black patches on its chest and the black-and-white lines on its head, which have earned it the nickname of “ringed penguin”). A great swimmer, it’s capable of reaching 10 km/h and even of remaining under the water for two minutes.</string>
+    <string name="pinguinoCostumbres">The Jackass penguin lives in colonies made up of numerous pairs, which to survive feed on small fish and crustaceans. When reproducing, it spends its time digging nests in the sandy ground and, later, incubating the eggs for between 35 and 40 days. It usually lays two eggs.</string>
+    <string name="pinguinoSabias">Socially, this penguin uses a certain vocal language to make calls, either to mark territory or to call to their mates and communicate with their chicks.</string>
+    <string name="pinguinoPeso">2–5 kg</string>
+    <string name="pinguinoTamaño">70 cm</string>
+
+    <string name="rinoceronte">WHITE RHINO</string>
+    <string name="rinoceronteQuien">The White rhinoceros is the second largest terrestrial mammal on the planet. Despite its amazing size, it’s a very fast animal, capable of galloping at high speed and turning while running. A solitary animal, it has horns which are its most terrible weapon. A horn which is, nevertheless, the reason why it is so desirable for hunters: popular beliefs attribute to it aphrodisiac properties. Fortunately, however, it’s a protected species (hunting it is currently banned).It has good hearing and a good sense of small but poor eyesight. No African rhinoceros is really white, but rather grey. In the case of the white rhinoceros, the name derives from the word “wyt” (“white” in Afrikaans, which means “wide” and refers to the size of its lips and mouth). Males and females are practically the same, though the latter have longer and narrower horns.Their range is the south and east of the African continent.</string>
+    <string name="rinoceronteCostumbres">One of its great pleasures is to have a mud bath. This acts to protect it from insect, as well as to regulate its temperature. That’s why it allows bird to ride on its back, so they may clear its tough hide, which lacks fur, of parasites. It usually lives in dry, open forests, with good grazing land to be able to deed (on bulbs, grass and leaves, on which its diet is based). A nocturnal animal, it is the most sociable of the rhinoceroses and gathers in mother-calf pairs or in herds of up to seven juveniles. Pregnancy lasts 18 months and suckling a year (though the calf starts eating grass a few weeks after birth). The female re-enters heat two years later: that is when the calf is forced to leave, since the mother has to breed again.</string>
+    <string name="rinoceronteSabias">The third white rhinoceros calf born through artificial insemination, in the world, was born at Madrid Zoo Aquarium.</string>
+    <string name="rinocerontePeso">2500–3500 kg</string>
+    <string name="rinoceronteTamaño">160–200 cm</string>
+
+    <string name="tapir">SOUTH AMERICAN TAPIR</string>
+    <string name="tapirQuien">It has a strange appearance but this animal is a distant relative of species such as the rhinoceros or the horse. For example, it has a thin muscular crest like a mane, from its forehead to its shoulders (which helps it, moreover, to protect it from the bites of its predators). It is a robust mammal, with a thick neck, a cylindrical appearance and short, cinnamon-coloured fur which allows it to remain unnoticed in the shadowy jungle. Tropical and subtropical forest, between 200m and 1,500m high, is its natural habitat (Colombia, Venezuela, Paraguay, northern Argentina). The most-developed senses of the South American tapir are hearing and smell. Though its main enemy is the jaguar, hunting and habitat destruction are what have made it vulnerable</string>
+    <string name="tapirCostumbres">The South American tapir leads a solitary nocturnal life. Despite its size, it’s difficult to see it in its territory, which it marks with urine when walking. It usually lives near water course, where the vegetation is softer (it feeds on leaves, twigs, shoots, grasses and fruit on occasion). The female’s gestation lasts 13 months and reaches sexual maturity when she is four years old. This animal takes long walks through territory it marks with urine as it passes.</string>
+    <string name="tapirSabias">The South American tapir loves to swim and submerge itself. In fact, it is a great swimmer.</string>
+    <string name="tapirPeso">227–300 kg</string>
+    <string name="tapirTamaño">170–250 cm</string>
+
+    <string name="tiburon">SANDBAR SHARK</string>
+    <string name="tiburonQuien">The main feature of the Sandbar shark is that it leads a typically pelagic life, that is, far from the coasts. It has a corpulent constitution in which the first dorsal fin stands out: it is very large, erect and high, it is quite far forward. Its range is the Pacific Ocean, normally in tropical and subtropical water and on the, preferably sandy, beds of shallows. It also lurks in ports, estuaries and the mouths of bays and rivers with cloudy waters, though this is an exclusively marine animal.</string>
+    <string name="tiburonCostumbres">The diet of this species of shark is omnivorous and opportunist; it encompasses a great variety of small and medium-sized prey: fish, octopuses, squid, bivalves, shrimps and crabs. After fertilisation, the embryo feeds on a yolk sac (the so-called viviparous strategy). Gestation may last between 8 and 12 months, depending on where they are ends with between seven and 13 pups being born. Sandbar sharks migrate seasonally, which the males begin as shoals. The females join them later, alone.</string>
+    <string name="tiburonSabias">In 2002, the first pups of this species were born at Madrid Zoo; the species is vulnerable according to the International Union for the Conservation of Nature (IUCN).</string>
+    <string name="tiburonPeso">118 kg</string>
+    <string name="tiburonTamaño">250 cm</string>
+
+    <string name="tigre">BENGAL TIGER</string>
+    <string name="tigreQuien">The Bengal tiger, one of six subspecies of tiger in the world, is the only feline with striped fur. Its large size make it the largest felids (carnivores which feed almost exclusively on animals they kill). The gorgeous white tiger are a variety of the Indian subspecies. Its off-white or cream colour is due to a recessive mutation, that is, a faulty transcription of the genetic code in the gene responsible for colour (when both the mother and the father are carriers of said gene). They generally have pink-coloured pupils and a blue iris. The tones range from toasty grey to black. In the last century, hunting and the destruction of the forests have reduced the population of tigers: it has gone from hundreds of thousands of individuals to fewer than 2,500. Conservation programmes are of great importance.</string>
+    <string name="tigreCostumbres">A wild species par excellence, it lives where felids abound and it is particularly adapted for hunting. Its furs acts to camouflage it among the shades of the trees or the grass. It patrols its territory at night, alone: it is very furtive, so much so that its legs barely touch the ground. Tigers are among the top predators, behind only bears. In the breeding season, however, they are surprisingly tender: male and female are very tolerant of each other. They reach sexual maturity at the age of three years and usually have litters of two to three cubs (after a gestation lasting 103 days).</string>
+    <string name="tigreSabias">Tigers live longer in zoos than in the wild, where their average life span is between eight and 10 years. In captivity they may attain 26 years of age.</string>
+    <string name="tigrePeso">110–225 kg</string>
+    <string name="tigreTamaño">150–180 cm</string>
+
+    <string name="ave">Bird</string>
+    <string name="mamifero">Mammal</string>
+    <string name="pez">Fish</string>
+
+    <string name="herbivoro">Herbivorous</string>
+    <string name="carnivoro">Carnivorous</string>
+    <string name="omnivoro">Omnivore</string>
+    <string name="frugivoro">Fruitarian</string>
+    <string name="piscivoro">Piscivorous</string>
+    <string name="insectivoro">Insectivorous</string>
+
+    <string name="africa">Africa</string>
+    <string name="americaNorte">North America</string>
+    <string name="americaSur">South America</string>
+    <string name="asia">Asia</string>
+    <string name="europa">Europe</string>
+    <string name="oceania">Oceania</string>
+
+    <string name="vu">VULNERABLE</string>
+    <string name="lc">LEAST <br />CONCERN</string>
+    <string name="EN">ENDANGERED</string>
+    <string name="CR">CRITICALLY ENDANGERED</string>
+
+    <string name="cargando">Loading …</string>
+
+    <string name="formularioIncidencia">INCIDENT FORM</string>
+    <string name="seleccione">SELECT</string>
+
+    <string name="btnEnviar">SEND</string>
+    <string name="btnCancelar">CANCEL</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="restauranteKibanda">Kibanda Restaurant</string>
+    <string name="restauranteVirunga">Virunga Restaurant</string>
+    <string name="restaurantePrincipal">Main Restaurant</string>
+    <string name="fotoJirafa">Giraffe Photo</string>
+    <string name="fotoAve">Photo Birds</string>
+    <string name="fotoDelfines">Photo Dolphins</string>
+</resources>

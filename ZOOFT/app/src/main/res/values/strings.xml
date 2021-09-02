@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">ZOOFT</string>
+    <string name="qr">Escanea código QR</string>
+    <string name="loc">Localizar</string>
+    <string name="exit">Salir</string>
+
+    <string name="copyright">COPYRIGHT - 2021</string>
+    <string name="diseño">Diseñado por:</string>
+    <string name="autor">ANGELLO TORRES DE LA TORRE</string>
+
+    <string name="confirmacionSalirAPP">¿Desea salir de la aplicación?</string>
+    <string name="confirmacionIncidencia">¿Desea enviar la incidencia?</string>
+    <string name="incidenciaGenerada">Incidencia Generada</string>
+    <string name="mensajeExcepcion">Mensaje de Excepción</string>
+    <string name="animalNoEncontrado">Animal no encontrado</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="quien">¿QUIÉN ES?</string>
+    <string name="costumbres">¿CUÁLES SON SUS CONSTUMBRES?</string>
+    <string name="sabias">SABÍAS QUE…</string>
+
+    <string name="bisonte">BISONTE EUROPEO</string>
+    <string name="bisonteQuien">Este bisonte es el mamífero de mayor tamaño existente en Europa, y se le parece mucho a su pariente americano, si bien es presenta una constitución más ligera (además de carecer de joroba). El pelaje de los adultos, pardo, es más oscuro que el de los becerros, y se desarrolla sobre todo en la cabeza, hombros y cuello. Poseen una pequeña "barba" en la garganta, mientras que en las patas tienen el pelo corto (al contrario que el Bisonte americano). La cornamenta es propia de ambos sexos, y puede llegar a medir 50 centímetros. Habitan en los bosques espesos, templados y húmedos del este europeo.</string>
+    <string name="bisonteConstumbres">El Bisonte Europeo vive en pequeños rebañospequeños rebaños escondidos de entre 10 y 30 individuos y, pese a su pesada apariencia, es muy veloz. Eso le sirve para defender con fiereza a sus terneros de los ataques de osos y lobos. Igualmente, son buenos nadadores y disfrutan mucho sumergiéndose en los pantanos. Entre agosto y septiembre tiene lugar la época de celo, tras la cual se sucede la gestación, que dura entre 260 y 270 días. Las hembras paren una sola cría, alejándose antes para dar a luz. Son mamíferos herbívoros.</string>
+    <string name="bisonteSabias">La Primera Guerra Mundial por poco acaba con esta especie. Al término de la contienda apenas quedaban 60 ejemplares de bisonte en todo el continente.</string>
+    <string name="bisontePeso">300–920 kg</string>
+    <string name="bisonteTamaño">150–200 cm</string>
+
+    <string name="guacamayo">GUACAMAYO ROJO DE ALAS VERDES</string>
+    <string name="guacamayoQuien">El Guacamayo rojo de alas verdes, o Guacamayo "aliverde", posee un magnífico plumaje y forma parte de la gran familia de los denominados "loros". Su nombre científico, "Ara", responde al sonido que emite esta ave, típica de las selvas tropicales que van desde México hasta Brasil. El Guacamayo rojo reside en las proximidades de sitios donde hay agua, y está amenazado debido a la destrucción de su hábitat (el comercio ilegal amenaza su supervivencia). Son bastantes grandes y atraen la atención por su vívido y espectacular colorido, y su llamado estridente con el que se comunican durante el vuelo. Los ejemplares jóvenes se parecen a los adultos, pero tienen la cola más corta.</string>
+    <string name="guacamayoCostumbres">El Guacamayo rojo vive en pequeños grupos o bien en pareja, con la que construye sus nidos en época de celo. El lugar escogido son los huecos de los árboles, de difícil acceso para los predadores. Los huevos los incuba la hembra, si bien el cuidado de los polluelos corresponde a ambos sexos. Las crías se emancipan una vez que aprenden a volar. Su alimentación se basa en frutas variadas, semillas, nueces y bayas.</string>
+    <string name="guacamayoSabias">Son aves dóciles y sociables, de ahí que se adapten fácilmente a la vida de los hogares (aunque, al igual que ocurre con otras aves de su especie, suelen centrar su cariño en una sola persona).</string>
+    <string name="guacamayoPeso">1000–1350 gr</string>
+    <string name="guacamayoTamaño">82–120 cm</string>
+
+    <string name="ibis">IBIS SAGRADO</string>
+    <string name="ibisQuien">El Ibis Sagrado posee plumaje blanco y negro en la cabeza y la cola. Su nombre se debe al dios Thot, al que encarnaba (de ahí que se le domesticara para permanecer en templos y parques, donde los antiguos egipcios le rendían culto). Cuando moría era momificado y recibía sepultura. Hoy en día, sin embargo, es un ave desaparecida de Egipto. Se encuentra principalmente en las corrientes y zonas lacustres del sur de África y Asia. Se alimenta principalmente de insectos y lombrices, además de crustáceos y pequeños reptiles, a los que captura con su largo pico curvo.</string>
+    <string name="ibisCostumbres">El ibis es un animal carnívoro, su dieta es muy parecida a la de las cigüeñas o los marabúes. Se alimenta de insectos y lombrices, además de crustáceos y pequeños reptiles, a los que captura con su largo pico. Ave diurna y gregaria, habita en las orillas de los ríos, lagos y aguas estancadas. Es capaz de formar en ocasiones colonias muy numerosas. Construye los nidos sobre los árboles, donde nacen los polluelos (blancos, a excepción de cuello y cabeza, negros y sin plumas). La incubación dura unos 28 o 29 días y es efectuada por los dos miembros de la pareja.</string>
+    <string name="ibisSabias">Las crías del Ibis Sagrado abandonan el nido a los 20 días de nacer para reunirse en una especie de guardería. Antes del segundo mes de vida adquieren su independencia.</string>
+    <string name="ibisPeso">1,5 kg</string>
+    <string name="ibisTamaño">65–80 cm</string>
+
+    <string name="lince">LINCE IBÉRICO</string>
+    <string name="linceQuien">El lince ibérico es el felino más grade del sur de Europa y el más amenazado del Planeta. Es una especie endémica de la Península Ibérica y originalmente distribuida por toda ella. Actualmente su población se compone de 404 ejemplares, lo que ha permitido que pase de estar clasificada como "en peligro crítico" a "en peligro". Esbelto y de patas largas (82–103cm de longitud y 36–55cm de altura), es inconfundible por sus barbas y los pinceles negros a la punta de sus orejas. El pelaje es de color pardo con manchas oscuras de tamaño y densidad variable según los individuos. La cola corta es característica de todos los linces del mundo.</string>
+    <string name="linceCostumbres">Las hembras crían una vez al año y no todos los años. Los partos tienen lugar entre marzo y abril, tras aproximadamente dos meses de gestación. Las crías son poco móviles y mantienen los ojos cerrados durante los primeros 12 días de vida. Pueden nacer hasta cuatro cachorros. El conejo supone más del 90% de su alimentación, si bien ocasionalmente, puede capturar otras presas como ciervos, gamos, perdices, micromamíferos y aves acuáticas. Los linces son solitarios y territoriales. Defienden con exclusividad el centro de su área de campeo ante individuos subadultos o adultos del mismo sexo.</string>
+    <string name="linceSabias">Aunque se parece a un gato grande, se relaciona más con un león de pequeño tamaño.</string>
+    <string name="lincePeso">9,4–13 kg</string>
+    <string name="linceTamaño">82–103 cm</string>
+
+    <string name="lobo">LOBO GRIS</string>
+    <string name="loboQuien">Tundras y regiones polares son el hábitat del lobo gris, mamífero emparentado con nuestro perro doméstico, los chacales, el dingo australiano o el zorro. Aunque se dice que el lobo gris es muy parecido, sobre todo, al husky siberiano. De pelaje largo y blanco, presenta también tonos grisáceos en el dorso. Se distribuye por Groenlandia y las islas árticas de Canadá.</string>
+    <string name="loboCostumbres">El Lobo Ártico abarca vastos territorios para encontrar la comida que necesita, de ahí que delimite con aullidos y marcas olorosas su zona. La estructura social de la manada está fuertemente jerarquizada y dirigida por una pareja. Se trata del macho y la hembra alfas, quienes suelen ser los únicos que procrean. Son quienes toman las decisiones en torno a las actividades del grupo: la caza, qué individuo come primero, a quién se le permite procrear, etcétera. La madre da a luz a dos o tres crías a finales de mayo o principios de junio, tras una gestación de aproximadamente 63 días. Los cachorros no se emancipan de la hembra hasta los dos años.</string>
+    <string name="loboSabias">Las poblaciones de lobos polares se han recuperado un poco en los últimos años, aunque siguen estando amenazadas. La caza, la pérdida del hábitat, los atropellos, los envenenamientos, la falta de presas… Son las causas de este declive. Parientes suyos como el Lobo Ibérico se enfrentan a problemas similares.</string>
+    <string name="loboPeso">63–78 kg</string>
+    <string name="loboTamaño">1–2 m</string>
+
+    <string name="loris">LORIS ARCO IRIS</string>
+    <string name="lorisQuien">Existen al menos 22 subespecies conocidas de Loris Arco Iris, diferenciadas entre sí por el color de la cabeza, nuca y pecho. El color que predomina en el robusto cuerpo de esta ave es el verde: en la espalda, obispillo y la cola puntiaguda. El pico de los ejemplares jóvenes es de color marrón oscuro (el de los adultos, anaranjado o rojo). Cuando vuela, el loris despliega sus brillantes alas y chilla mucho. Mientras se alimenta, en cambio, el loris arcoiris es silencioso (tanto es así que llega a pasar inadvertido entre la vegetación, dado su plumaje verde). Dentro de las islas de su área de distribución, y dada la ausencia de depredadores, ha adoptado una forma de vida preferentemente terrestre.</string>
+    <string name="lorisCostumbres">Normalmente vive en grandes bandadas ya que es un animal sociable capaz de formar grupos mixtos con otras especies. Se alimenta sobre todo de néctar, frutas maduras, flores e insectos (alimentos blandos, ricos en proteínas y vitaminas). Su propia lengua, con forma de escobilla, se ha adaptado a esta dieta: usa el pico para aplastar la pulpa de la fruta y extraer el jugo y las semillas. No existe dimorfismo sexual aparente, y solamente la hembra incuba los huevos durante unos 27 días, aunque el nido es preparado por ambos sexos, que se ocupan por igual de alimentar las crías. Éstas se marchan del nido a las ocho semanas de nacer.</string>
+    <string name="lorisSabias">Los nidos del Loris Arco Iris suelen encontrarse en huecos de madera podrida, así como en las ramas extremas de los eucaliptos. La puesta oscila entre los tres y cuatro huevos, y se produce en intervalos de uno o dos días.</string>
+    <string name="lorisPeso">116–142 gr</string>
+    <string name="lorisTamaño">26 cm</string>
+
+    <string name="nutria">NUTRIAS GIGANTES DE AMAZONAS</string>
+    <string name="nutriaQuien">Esta variedad de nutria, como su nombre indica, es la más grande de la familia de las nutrias. Puede llegar a alcanzar dos metros de longitud y 32 kilogramos de peso. El cuerpo de la Nutria Gigante del Amazonas es alargado; sus patas, cortas y gruesas, terminan en grandes pies, provistos de membranas interdigitales que le ayudan a maniobrar y tomar impulso durante el nado lento. Cuando quiere nadar más rápido utiliza la cola, ancha y plana. Su pelaje es marrón oscuro y muy denso, salvo en la zona de la garganta (donde presenta varias manchas claras, únicas para cada individuo; lo que permite su reconocimiento e identificación a simple vista). Su esperanza de vida puede superar los 15 años. Estas nutrias habitan en ríos, lagos, arroyos y pantanos de los bosques tropicales en Sudamérica. Es allí donde se dedican a despejar grandes áreas de vegetación para construir sus madrigueras.</string>
+    <string name="nutriaCostumbres">Es un animal muy sociable que vive en grupos familiares de hasta diez individuos, formados por una pareja adulta y varias generaciones de crías. Especialmente ruidosa, activa, curiosa y juguetona, usa un amplio repertorio de vocalizaciones (algunas de ellas las utiliza, junto con excrementos y secreciones glandulares, para marcar el territorio o dar señales de alarma ante una amenaza). Las hembras dan a luz entre una y cinco crías, después de una gestación que dura alrededor de 70 días; paren en las madrigueras, construidas cerca de la ribera del río y los sitios de pesca. Machos y hermanos mayores participan en la crianza de la camada, cuya vulnerabilidad aprovechan en ocasiones los caimanes. La alimentación de estas nutrias gigantes consiste, principalmente, en peces (aunque también come cangrejos, serpientes e incluso pequeños caimanes).</string>
+    <string name="nutriaSabias">La Nutria Gigante del Amazonas no tiene enemigos naturales. La caza furtiva, la pérdida del hábitat, la sobrepesca y la contaminación son los factores que ponen en peligro su existencia.</string>
+    <string name="nutriaPeso">32 kg</string>
+    <string name="nutriaTamaño">2 m</string>
+
+    <string name="hormiguero">OSO HORMIGUERO</string>
+    <string name="hormigueroQuien">Primo del armadillo y del perezoso, el Oso Hormiguero es uno de los mamíferos más antiguos del planeta. Y de los más extraños, también: su peculiar y prolongada cabeza, rematada por una pequeñísima boca, le confiere un aspecto muy reconocible. De hocico largo sin dientes, orejas pequeñas y pelaje tupido, es originario de la parte central y sureña de América (si bien ha desaparecido de algunos países en Centroamérica). Su hábitat natural es variado: ha vivido en bosques húmedos y secos, áreas pantanosas, sabanas y pastizales.</string>
+    <string name="hormigueroCostumbres">Consume miles de hormigas al día. De hecho son éstas, junto con las termitas, las que determinan el territorio en el que viven. Eso sí, son selectivos: de las cientos de especies existentes, solamente escogen cuatro o cinco tipos de hormiga. Al poseer un olfato fino , es capaz de localizar con facilidad sus presas favoritas, a las que alcanza excavando el suelo con sus potentes garras. La reproducción del Oso hormiguero no es estacional. La gestación se desarrolla a lo largo de 190 días, tras los cuales nace una cría. Apenas nacida, ésta se agarra con sus uñas al pelo de la madre para trepar hasta su lomo, donde permanece durante un año. Pasado este tiempo, se separa de ella para comenzar a explorar el entorno en soledad. Los osos hormigueros no parecen tener contacto entre sí: normalmente se dedican a recorrer vastas extensiones para alimentarse, y solamente se relacionan entre ellos en época de apareamiento.</string>
+    <string name="hormigueroSabias">Sucede que en cautividad el Oso hormiguero cohabita con facilidad e incluso se olvida de la búsqueda de alimento, lo cual aumenta su sociabilidad con otros individuos.</string>
+    <string name="hormigueroPeso">20–40 kg</string>
+    <string name="hormigueroTamaño">2 m</string>
+
+    <string name="panda">PANDAS GIGANTES</string>
+    <string name="pandaQuien">Los Pandas Gigantes son animales fascinantes. Comedor de bambú (como indica el significado de su nombre en nepalí), no era más que un vagabundo solitario de las montañas chinas hasta que en 1869 fue dado a conocer en Occidente por el naturalista y misionero Armand David. Los Pandas gigantes constituyen todo un símbolo para quienes están convencidos de la necesidad de proteger la naturaleza y la biodiversidad. Son animales tranquilos, expertos trepadores de árboles. Las hembras son más livianas que los machos, si bien no existen diferencias entre ellos. Su pelaje es duro, largo y denso; en ocasiones, el negro tiene un matiz amarronado, y el blanco se oscurece o se vuelve más rojizo y marrón. Posee pupilas verticales, al igual que los gatos. Esta especie ha desarrollado un sexto dedo (pseudo-pulgar) que no es más que una prolongación de un hueso de la muñeca que le sirve para arrancar, agarrar y llevarse a la boca el bambú.</string>
+    <string name="pandaCostumbres">Los bosques templados en China son los que han ofrecido a los Pandas gigantes, tradicionalmente, abrigo y alimento. Cada ejemplar suele ocupar un territorio que abarca los 4 y 6,5 kilómetros, mientras se mueve despreocupada y lentamente, economizando energías. El amanecer y el crepúsculo son las horas en las que el oso panda se muestra más activo, aunque no siempre. Machos y hembras frecuentan zonas prácticamente idénticas, y se comunican con una serie de sonidos. Especialmente los machos, que realizan llamadas y gemidos durante la época de celo (específicos y bastante ruidosos). Las crías nacen a los 135 días de gestación, ciegas y rosadas. Su dieta está formada por bambú principalmente; también comen insectos, huevos, frutos y pequeños mamíferos.</string>
+    <string name="pandaSabias">La supervivencia del oso panda está aún comprometida: solamente quedan entre 1.000 y 2.000 animales en su hábitat natural, en las provincias de Gansu, Shaanxi y Sichuan (China).</string>
+    <string name="pandaPeso">120–150 kg</string>
+    <string name="pandaTamaño">170–180 cm</string>
+
+    <string name="pinguino">PINGÜINO DE JACKASS</string>
+    <string name="pinguinoQuien">Conocido como pingüino africano, el Pingüino de Jackass habita en las costas rocosas del extremo sur en África (Namibia, Sudáfrica e islas circundantes). Presenta una apariencia que le camufla de sus depredadores (en especial las manchas negras en el pecho y las líneas blancas y negras sobre la cabeza, que le han valido el apodo de "pingüino anillado"). Gran nadador, es capaz de alcanzar los 10 km/h, e incluso de permanecer hasta dos minutos debajo del agua.</string>
+    <string name="pinguinoCostumbres">El Pingüino de Jackass vive en colonias formadas por numerosas parejas, alimentándose para sobrevivir con pequeños peces y crustáceos. A la hora de reproducirse, se dedica a excavar nidos en los suelos arenosos y a incubar después los huevos entre 35 y 40 días. Suele poner dos ejemplares.</string>
+    <string name="pinguinoSabias">A nivel social, este pingüino utiliza cierto lenguaje vocal para realizar llamadas, bien para marcar territorio o para llamar la atención de sus parejas y comunicarse con sus crías.</string>
+    <string name="pinguinoPeso">2–5 kg</string>
+    <string name="pinguinoTamaño">70 cm</string>
+
+    <string name="rinoceronte">RINOCERONTE BLANCO</string>
+    <string name="rinoceronteQuien">El Rinoceronte blanco es el segundo mamífero terrestre más grande del planeta. A pesar de su impresionante tamaño, es un animal muy ágil, capaz de galopar a gran velocidad y girar en plena carrera. Es solitario y posee unos cuernos que constituyen su arma más temible. Cornamenta que es, no obstante, el motivo de que su caza sea tan codiciada: creencias populares le atribuyen propiedades afrodisíacas. Afortunadamente, sin embargo, es una especie protegida (en la actualidad está prohibida su caza). Posee buen oído y olfato, pero mala vista. Ninguno de los rinocerontes africanos es en realidad blanco, sino de color gris. En el caso del Rinoceronte blanco, el nombre procede de la palabra "wyt" ("blanco", en afrikaans, que significa "ancho" y se refiere al tamaño de sus labios y boca). Machos y hembras son prácticamente iguales, si bien ellas tienen cuernos más largos y delgados. Se distribuyen por el este y el sur del continente africano.</string>
+    <string name="rinoceronteCostumbres">Una de sus grandes aficiones es darse baños en el lodo. Esto le sirve para protegerse de los insectos, así como para regular su temperatura. Por eso permite a los pájaros posarse sobre su lomo, para que éstos limpien la dura piel que le cubre, carente de pelaje, de parásitos. Suele habitar en bosques abiertos y secos, con buenos pastizales para poder alimentarse (de bulbos, hierba y hojas: la base de su dieta). De costumbres nocturnas, es el más sociable de los rinocerontes y se agrupa en parejas de madres-cría o en manadas de hasta siete ejemplares jóvenes. El embarazo dura 18 meses, y la lactancia un año (aunque el bebé rinoceronte come hierba desde las primeras semanas de vida). El celo de la hembra vuelve a los dos años: es entonces cuando la cría se independiza, forzosamente, puesto que la madre tiene que volver a aparearse.</string>
+    <string name="rinoceronteSabias">El tercer bebé de Rinoceronte blanco nacido por inseminación artificial, en todo el mundo, fue alumbrado en el Zoo Aquarium de Madrid.</string>
+    <string name="rinocerontePeso">2500–3500 kg</string>
+    <string name="rinoceronteTamaño">160–200 cm</string>
+
+    <string name="tapir">TAPIR AMAZÓNICO</string>
+    <string name="tapirQuien">Resulta aparentemente raro, pero este animal es pariente lejano de especies como el rinoceronte o el caballo. Presenta, por ejemplo, una delgada cresta muscular a modo de crin, de la frente a los hombros (que le ayuda, además, a protegerse de los mordiscos de sus depredadores). Es un mamífero robusto, de cuello grueso, aspecto cilíndrico y pelaje corto color canela que le permite pasar inadvertido en la selva umbrosa. El bosque tropical y subtropical, entre los 200 y los 1.500 de altitud, es su hábitat natural (Colombia, Venezuela, Paraguay, norte de Argentina). Los sentidos más desarrollados del Tapir amazónico son el oído y el olfato. Aunque su principal enemigo es el jaguar, la caza y la destrucción de su entorno es lo que le ha puesto en situación de vulnerabilidad.</string>
+    <string name="tapirCostumbres">El Tapir amazónico lleva una vida solitaria y nocturna. Pese a su tamaño, resulta difícil contemplarle en su territorio, que marca con orina cuando se va de caminata. Suele vivir cerca de los cursos de agua, donde la vegetación es más tierna (se alimenta de hojas, ramas, brotes, gramíneas y frutos, eventualmente). La hembra tiene un período de gestación de 13 meses y alcanza la madurez sexual con cuatro años. Este animal da grandes caminatas a través de un territorio que va marcando con orina.</string>
+    <string name="tapirSabias">Al Tapir amazónico le gusta mucho nadar y sumergirse. De hecho, se caracteriza por ser un gran nadador.</string>
+    <string name="tapirPeso">227–300 kg</string>
+    <string name="tapirTamaño">170–250 cm</string>
+
+    <string name="tiburon">TIBURÓN GRIS</string>
+    <string name="tiburonQuien">La principal característica del Tiburón Gris es que lleva una vida típicamente pelágica, es decir, alejada de las costas. Posee una constitución corpulenta en la que destaca la primera aleta dorsal, que es de tamaño muy grande, erecta y alta y se encuentra bastante adelantada. Se distribuye por el océano Pacífico, normalmente por aguas tropicales y subtropicales y en fondos poco profundos, preferiblemente arenosos. También merodea alrededor de puertos, estuarios y entradas de bahías y ríos con aguas turbias, si bien es un animal exclusivamente marino.</string>
+    <string name="tiburonCostumbres">La alimentación de este subTipo de Tiburón es omnívora y oportunista; abarca una gran variedad de presas de tamaño pequeño y mediano: peces, pulpos, calamares, rayas, bivalvos, gambas y cangrejos. Tras la fecundación, el embrión se alimenta por medio de un saco vitelino (es la llamada estrategia vivípara). La gestación puede durar de ocho a 12 meses, dependiendo de la zona donde se encuentren, y termina con una camada que va de siete a 13 crías. Los tiburones grises realizan migraciones estacionales, que comienzan los machos de forma gregaria. Las hembras se incorporan después en solitario.</string>
+    <string name="tiburonSabias">En 2002 nacieron en el Zoo de Madrid las primeras crías de esta especie, en situación vulnerable según la Unión Internacional para la Conservación de la Naturaleza (UICN).</string>
+    <string name="tiburonPeso">118 kg</string>
+    <string name="tiburonTamaño">250 cm</string>
+
+    <string name="tigre">TIGRE DE BENGALA</string>
+    <string name="tigreQuien">El Tigre de Bengala, una de las seis subespecies de tigres que existen en el mundo, es el único felino de piel rayada. Sus grandes dimensiones le convierten en el mayor de los félidos (carnívoros que se alimentan, casi exclusivamente, de los animales que matan). Los bellísimos tigres blancos son una variedad del ejemplar de la India. Su color blanco roto o crema obedece a una mutación recesiva, es decir, a una mala transcripción del código genético en el gen responsable del color (cuando madre y padre son portadores de dicho gen). Tienen pupilas de color rosa e iris azul, generalmente. Las franjas son de tonalidades que van del gris tostado al negro. En el último siglo, la caza y la destrucción de los bosques han reducido la población de tigres: de cientos de miles de individuos han pasado a ser menos de 2.500. La importancia de los programas de conservación es máxima.</string>
+    <string name="tigreCostumbres">Especie selvática por excelencia, vive allí donde abundan los félidos y está particularmente adaptado para la caza. Su pelaje le sirve para camuflarse entre las sombras de los árboles o la hierba. Patrulla su territorio por las noches, solitario; es muy sigiloso, tanto que parece que sus patas apenas toquen el suelo. Los tigres están en el top de depredadores, tan solo por detrás de los osos. En época de apareamiento, sin embargo, son sorprendentemente tiernos: macho y hembra se muestran muy tolerantes el uno con el otro. Alcanzan la madurez sexual a los tres años, y suelen tener camadas de dos a tres cachorros (después de 103 días de gestación).</string>
+    <string name="tigreSabias">Los tigres son más longevos en los zoológicos que en estado silvestre, donde tienen una edad media de entre ocho y 10 años. En cautividad pueden alcanzar los 26 de años de edad.</string>
+    <string name="tigrePeso">110–225 kg</string>
+    <string name="tigreTamaño">150–180 cm</string>
+
+    <string name="ave">Ave</string>
+    <string name="mamifero">Mamífero</string>
+    <string name="pez">Pez</string>
+
+    <string name="herbivoro">Herbívoro</string>
+    <string name="carnivoro">Carnívoro</string>
+    <string name="omnivoro">Omnívoro</string>
+    <string name="frugivoro">Frugívoro</string>
+    <string name="piscivoro">Piscívoro</string>
+    <string name="insectivoro">Insectívoro</string>
+
+    <string name="africa">Africa</string>
+    <string name="americaNorte">América del Norte</string>
+    <string name="americaSur">América del Sur</string>
+    <string name="asia">Asia</string>
+    <string name="europa">Europa</string>
+    <string name="oceania">Oceanía</string>
+
+    <string name="vu">VULNERABLE</string>
+    <string name="lc">PREOCUPACIÓN <br />MENOR</string>
+    <string name="EN">EN PELIGRO</string>
+    <string name="CR">PELIGRO CRÍTICO</string>
+
+    <string name="cargando">Cargando …</string>
+
+    <string name="formularioIncidencia">FORMULARIO DE INCIDENCIAS</string>
+    <string name="seleccione">SELECCIONE</string>
+
+    <string name="btnEnviar">ENVIAR</string>
+    <string name="btnCancelar">CANCELAR</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="restauranteKibanda">Restaurante Kibanda</string>
+    <string name="restauranteVirunga">Restaurante Virunga</string>
+    <string name="restaurantePrincipal">Restaurante Principal</string>
+    <string name="fotoJirafa">Foto Jirafa</string>
+    <string name="fotoAve">Foto Aves</string>
+    <string name="fotoDelfines">Foto Delfines</string>
+</resources>
